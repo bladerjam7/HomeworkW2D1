@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeworkW2D1</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_person_x">Person X</string>
+    <string name="textview">TextView</string>
+    <string name="tv_enter_a_text_hint">Enter a text</string>
+    <string name="btn_send">Send</string>
+    <string name="tv_person_y">Person Y</string>
+</resources>
